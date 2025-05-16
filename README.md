@@ -1,6 +1,7 @@
 # Election-Result-Analysis
 
-Absolutely! Here's a **GitHub-style README** for your **Election Result Analysis** SQL project, formatted similarly to the Hospital Data Analysis version you shared:
+![image](https://github.com/user-attachments/assets/698bfb95-5159-42af-81a9-ae1d3a918aef)
+
 
 ---
 
